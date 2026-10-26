@@ -1,0 +1,79 @@
+We're looking for a rockstar Python ninja to join our fast-paced startup!
+You'll wear many hats — backend, frontend, DevOps, and probably some
+customer support too. 5+ years of experience required for this junior
+role. Unlimited PTO. Must know Python, React.js, NodeJS, and AWS.
+
+---
+
+Senior Backend Engineer (Python)
+
+We are seeking an experienced backend engineer to help scale our payment
+infrastructure. You will design and maintain high-throughput services,
+own reliability for critical systems, and mentor junior engineers.
+
+Requirements:
+- 6+ years professional Python experience
+- Strong grasp of distributed systems and PostgreSQL
+- Experience with Kubernetes and observability tooling
+- Comfortable with on-call rotation
+
+Salary: $160,000 - $200,000 + equity. Remote-friendly (US timezones).
+
+---
+
+Marketing Intern — MUST START IMMEDIATELY!!!
+
+Fast-paced environment! We need someone who can hit the ground running
+and wear many hats. Responsibilities include social media, email
+marketing, event planning, graphic design, video editing, and SEO.
+Unpaid 3-month trial, then possibly minimum wage. Rockstar attitude
+required. No experience necessary but 2+ years preferred.
+
+---
+
+Data Analyst
+
+Join our analytics team to support product and growth decisions. You'll
+build dashboards, run experiments, and partner with PMs to translate
+questions into analyses.
+
+Required: SQL (advanced), Python (pandas), experience with a BI tool
+(Looker, Tableau, or Metabase). Nice to have: dbt, statistics background.
+
+Fully remote. Salary range disclosed on request.
+
+---
+
+Frontend Developer (React)
+
+We're hiring a frontend developer to work on our design system and
+customer-facing web app. You'll collaborate closely with designers and
+backend engineers.
+
+Must have: React, TypeScript, CSS. Bonus: Next.js, accessibility
+experience, testing with Playwright.
+
+Competitive salary and benefits. Hybrid — 2 days/week in our Berlin office.
+
+---
+
+CTO / Co-Founder — Equity Only
+
+Looking for a technical co-founder to build our MVP from scratch. You'll
+own the entire stack, wear many hats, and be a rockstar ninja. No salary
+until we raise. Fast-paced. Must be available 24/7. We're disrupting the
+pet care space with AI. 10+ years experience required, ideally ex-FAANG.
+
+---
+
+Junior Software Engineer
+
+Great opportunity for a recent graduate to grow into a well-rounded
+engineer. You'll work alongside senior engineers on real features across
+our stack (Python backend, React frontend).
+
+We care more about curiosity and willingness to learn than a checklist.
+Some exposure to Python or JavaScript is a plus. We provide mentorship,
+a learning budget, and a clear path to promotion.
+
+Salary: $85,000 - $105,000. Onsite in Austin, TX.
